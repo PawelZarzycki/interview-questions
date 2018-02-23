@@ -23,6 +23,25 @@ Other lists
 - https://github.com/coells/100days
 - https://github.com/ryanbas21/interview_questions
 
+Have a solid understanding of the Activity lifecycle
+Have decent debugging skills, and know how to resolve most crashes in a timely fashion
+Know the pros and cons of various data structures
+Be able to create xml layouts using ConstraintLayout, RelativeLayout, LinearLayout, and FrameLayout, and understand the performance impact of deep view hierarchies
+Know the basics of MVP, MVVM, and what these look like when implemented
+Know how to set up unit testing (and how to design the architecture to make things testable)
+Know how to manage dependencies with Gradle
+Know their way around the most popular libraries - AppCompat, RecyclerView, Retrofit, etc. Bonus points for RxJava2, Dagger2, Firebase, etc
+Know how to use Proguard
+Understand the 65k method limit and how to get around it (MultiDex)
+Know how to manage permissions in the manifest, and how and when to request them
+Be able to explain the purpose of Activities, Services, Broadcast Receivers, and Content Providers
+Know how to use git for version control
+Be able to design and build a custom view
+Be able to explain when you would or wouldn't want to use a singleton, and why
+Have a basic understanding of Material Design
+Know how to push an app to the Play Store
+Have basic communication skills and know how to work as a team.
+
 Books and guides
 ----------------
 - https://github.com/yangshun/tech-interview-handbook
